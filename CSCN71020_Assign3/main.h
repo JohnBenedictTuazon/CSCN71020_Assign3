@@ -1,3 +1,3 @@
 #pragma once
 
-char RockPaperScissors(char*, char*);
+char RockPaperScissors(char *playerOne[], char* playerTwo[]);
